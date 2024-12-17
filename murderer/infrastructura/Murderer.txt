@@ -1,0 +1,4 @@
+1,sofe,2023/12/10,DNA,Simon Petrikov
+2,was seen,2023/12/13,statement,John Doe
+3,glasses,2022/12/8,object,Simon Petrikov
+4,kets,2023/12/14,object,Simon Petrikov

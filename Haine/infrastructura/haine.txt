@@ -1,0 +1,7 @@
+1,Haine munte SRL,geaca,100
+2,Imbracaminte Cluj_Napoca,bocanci,240
+3,Tricouri,tricouri,40
+4,Panti,pantaloni,50
+5,Panti2,pantaloni,60
+6,Panti3,pantaloni,70
+7,Panti4,pantaloni,80
